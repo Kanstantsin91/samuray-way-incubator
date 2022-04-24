@@ -1,0 +1,8 @@
+.active {
+    font-weight: bold;
+}
+
+.dialog a{
+    color: white;
+    text-decoration: none;
+}
